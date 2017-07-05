@@ -326,11 +326,10 @@ You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the program, if
 necessary.  Here is a sample; alter the names:
 
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the program
-  `Gnomovision' (which makes passes at compilers) written by James Hacker.
+  I hereby disclaim all copyright interest in the program
+  `Sandbox'  written by me.
 
-  {signature of Ty Coon}, 1 April 1989
-  Ty Coon, President of Vice
+  Bryant S. Waldkirch, 4 July 2017
 
 This General Public License does not permit incorporating your program into
 proprietary programs.  If your program is a subroutine library, you may
